@@ -1,5 +1,6 @@
 ## Hi my name is João Nanques
 
+- 👨‍💻 Currently studying Computer Engineering
 
 <div align="center">
   <a href="https://github.com/JoaoNanques">
