@@ -4,7 +4,7 @@
 
 <div align="left">
   <a href="https://github.com/JoaoNanques">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoNanques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoNanques&theme=dracula&show_icons=true&include_all_commits=true&count_private=true"/>
 </div>
   
   <div style="display: inline_block"><br>
